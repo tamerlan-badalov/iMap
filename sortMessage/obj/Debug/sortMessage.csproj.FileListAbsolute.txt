@@ -1,0 +1,10 @@
+C:\Users\tamer\source\repos\sortMessage\sortMessage\bin\Debug\sortMessage.exe.config
+C:\Users\tamer\source\repos\sortMessage\sortMessage\bin\Debug\sortMessage.exe
+C:\Users\tamer\source\repos\sortMessage\sortMessage\bin\Debug\sortMessage.pdb
+C:\Users\tamer\source\repos\sortMessage\sortMessage\bin\Debug\AE.Net.Mail.dll
+C:\Users\tamer\source\repos\sortMessage\sortMessage\bin\Debug\AE.Net.Mail.pdb
+C:\Users\tamer\source\repos\sortMessage\sortMessage\obj\Debug\sortMessage.csprojAssemblyReference.cache
+C:\Users\tamer\source\repos\sortMessage\sortMessage\obj\Debug\sortMessage.csproj.CoreCompileInputs.cache
+C:\Users\tamer\source\repos\sortMessage\sortMessage\obj\Debug\sortMessage.csproj.CopyComplete
+C:\Users\tamer\source\repos\sortMessage\sortMessage\obj\Debug\sortMessage.exe
+C:\Users\tamer\source\repos\sortMessage\sortMessage\obj\Debug\sortMessage.pdb
